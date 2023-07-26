@@ -1,12 +1,13 @@
-# nest-fastify-multer
+# o-nest-fastify-multer
 
 ## Install
 ```sh
-npm i nest-fastify-multer
+npm i o-nest-fastify-multer
 ```
 ## External Dependency Packages
 
 Before installing and using this package you must make sure you have `fastify-multer` installed.
+Fixed about `Buffer() deprecated` issue
 
 ```sh
 npm i fastify-multer
@@ -50,7 +51,7 @@ import {
   FastifyFileInterceptor,
   FastifyFilesInterceptor,
   FastifyFileFieldsInterceptor,
-} from 'nest-fastify-multer';
+} from 'o-nest-fastify-multer';
 
 // import multer to use your methods
 import { diskStorage } from 'multer';
