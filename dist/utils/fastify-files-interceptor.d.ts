@@ -1,1 +1,1 @@
-export declare const FastifyFilesInterceptor: (fieldName: string, maxCount?: number, localOptions?: any) => MethodDecorator & ClassDecorator;
+export declare const FastifyFilesInterceptor: (fieldName: string, maxCount?: number, localOptions?: Options) => MethodDecorator & ClassDecorator;
