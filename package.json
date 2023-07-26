@@ -1,6 +1,6 @@
 {
   "name": "o-nest-fastify-multer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The objective of this module is to provide a package with filters already prepared to work with 'fastify-multer'.",
   "main": "dist/index.js",
   "type": "commonjs",
@@ -26,6 +26,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/allullc/o-nest-fastify-multer.git"
+    "url": "git+https://github.com/cs64188/nest-fastify-multer.git"
   }
 }
